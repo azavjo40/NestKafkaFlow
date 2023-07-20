@@ -1,0 +1,6 @@
+{
+    "logger": {
+      "logLevels": ["log", "error", "warn"]
+    }
+  }
+  
